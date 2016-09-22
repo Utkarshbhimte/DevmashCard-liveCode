@@ -5,6 +5,14 @@ body{
   color: white;
 }
 
+*{
+  user-select:none;
+}
+
+a{
+  cursor: pointer;
+}
+
 h1{
   text-align: center;
   margin-top: 10vh;
